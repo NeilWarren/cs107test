@@ -1,4 +1,3 @@
-# cs107test
 
 [![Build Status](https://travis-ci.com/NeilWarren/cs107test.svg?branch=main)](https://travis-ci.com/NeilWarren/cs107test.svg?branch=main)
 
